@@ -1,0 +1,107 @@
+{
+  "user": [
+    {
+      "id": "572c0512-1e79-4a3d-9c3d-a224122f67bd",
+      "email": "abc@gmail.com",
+      "username": "jim",
+      "password": "12345"
+    },
+    {
+      "id": "572c0512-1e79-4a3d-9c3d-a224122f6744",
+      "email": "abcd@gmail.com",
+      "username": "jack",
+      "password": "12345"
+    }
+  ],
+  "posts": [
+    {
+      "text": "Hello World",
+      "userId": "572c0512-1e79-4a3d-9c3d-a224122f67bd",
+      "createdAt": "Wed Jul 01 2020 14:21:30 GMT+0530 (India Standard Time)",
+      "updatedAt": null,
+      "id": 1
+    },
+    {
+      "text": "Hello from jack",
+      "userId": "572c0512-1e79-4a3d-9c3d-a224122f6744",
+      "createdAt": "Wed Jul 01 2020 14:23:31 GMT+0530 (India Standard Time)",
+      "updatedAt": null,
+      "id": 2
+    },
+    {
+      "text": "hi",
+      "userId": "572c0512-1e79-4a3d-9c3d-a224122f6744",
+      "createdAt": "Wed Jul 01 2020 14:24:19 GMT+0530 (India Standard Time)",
+      "updatedAt": null,
+      "id": 3
+    },
+    {
+      "text": "Hi",
+      "userId": "572c0512-1e79-4a3d-9c3d-a224122f6744",
+      "createdAt": "Wed Jul 01 2020 14:25:08 GMT+0530 (India Standard Time)",
+      "updatedAt": null,
+      "id": 4
+    },
+    {
+      "text": "hi",
+      "userId": "572c0512-1e79-4a3d-9c3d-a224122f6744",
+      "createdAt": "Wed Jul 01 2020 14:25:15 GMT+0530 (India Standard Time)",
+      "updatedAt": null,
+      "id": 5
+    },
+    {
+      "text": "Hello Form Jim",
+      "userId": "572c0512-1e79-4a3d-9c3d-a224122f67bd",
+      "createdAt": "Wed Jul 01 2020 14:25:26 GMT+0530 (India Standard Time)",
+      "updatedAt": null,
+      "id": 6
+    },
+    {
+      "text": "Hello",
+      "userId": "572c0512-1e79-4a3d-9c3d-a224122f67bd",
+      "createdAt": "Wed Jul 01 2020 14:26:41 GMT+0530 (India Standard Time)",
+      "updatedAt": null,
+      "id": 7
+    },
+    {
+      "text": "hi",
+      "userId": "572c0512-1e79-4a3d-9c3d-a224122f67bd",
+      "createdAt": "Wed Jul 01 2020 14:27:26 GMT+0530 (India Standard Time)",
+      "updatedAt": null,
+      "id": 8
+    }
+  ],
+  "comments": [
+    {
+      "text": "hi",
+      "postId": 1,
+      "userId": "572c0512-1e79-4a3d-9c3d-a224122f67bd",
+      "createdAt": "Wed Jul 01 2020 14:22:12 GMT+0530 (India Standard Time)",
+      "updatedAt": null,
+      "id": 1
+    },
+    {
+      "text": "hi",
+      "postId": 1,
+      "userId": "572c0512-1e79-4a3d-9c3d-a224122f67bd",
+      "createdAt": "Wed Jul 01 2020 14:22:17 GMT+0530 (India Standard Time)",
+      "updatedAt": null,
+      "id": 2
+    },
+    {
+      "text": "hi from jack",
+      "postId": 1,
+      "userId": "572c0512-1e79-4a3d-9c3d-a224122f6744",
+      "createdAt": "Wed Jul 01 2020 14:23:19 GMT+0530 (India Standard Time)",
+      "updatedAt": null,
+      "id": 3
+    },
+    {
+      "text": "hi",
+      "userId": "572c0512-1e79-4a3d-9c3d-a224122f6744",
+      "createdAt": "Wed Jul 01 2020 14:23:37 GMT+0530 (India Standard Time)",
+      "updatedAt": null,
+      "id": 4
+    }
+  ]
+}

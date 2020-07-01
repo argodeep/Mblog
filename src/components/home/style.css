@@ -1,0 +1,32 @@
+.post-list {
+    display: flex;
+    align-items: flex-start;
+    flex-direction: column;
+    width: 500px;
+    margin: 8px auto;
+    padding: 16px;
+    background-color: #fcf7f9;
+}
+
+.post {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.post > span {
+   margin: 0px 8px;
+}
+
+.post > span:last-child {
+    background-color: #fff;
+    padding: 4px;
+    border: 1px solid #444;
+    border-radius: 4px;
+ }
+
+.comment-List {
+   display: flex;
+   justify-content: flex-start;
+   width: 500px;
+}
